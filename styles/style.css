@@ -38,8 +38,13 @@ body {
     }
 
     .box {
-        height: auto;
-        width: 50vw;
+        height: 400px;
+        width: 400px;
+    }
+
+    body {
+        max-width: 576px;
+        margin: 10px 12%;
     }
 
 
